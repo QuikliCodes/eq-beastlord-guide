@@ -1,6 +1,6 @@
 # Beastlord Guide
 
-This guide was last updated by *Quikli* on the Mischief server `2024-04-05`
+This guide was last updated by *Quikli* on the Mischief server `2024-04-15`
 
 ## VoA Updates
 
